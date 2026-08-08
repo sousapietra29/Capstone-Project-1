@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+<body>
+
+    <h1>Hi! I'm Pietra Sousa!</h1>
+
+    <img src="./images/pietra sousa pic.bmp" alt="a very pretty girl" height="200"> 
+    
+
+    <hr/>
+
+    
+    <h2>Summary</h2>
+
+    <p>Hey! Thank you for taking a second to check my portifolio, I'm very happy that I was able to get your attention! 
+        I'm still new at web development, so please be kind, but I would love feedbacks.</p>
+    
+    <hr/>
+
+    <h2>Education</h2>
+
+    <ul>
+        <li>Estoril School of Hospitality and Tourism </li>
+        <li>Bachelor’s degree in psychology (unfinished)</li>
+
+        <br/>
+
+        <p>I have a little bit of knolegde on a lot of areas, given the fact that I'm still looking for my dream job.</p>
+        
+    </ul>
+
+    <hr/>
+
+    <h2>Work experience</h2>
+
+    <ul>
+        <li>Primor <br/>
+-Cashier, replenishment, customer service</li>
+
+<br/>
+
+<li>The Body Shop <br/>
+-Cashier, saleswoman</li>
+
+<br/>
+
+<li>Teleperformance <br/>
+-Customer Service</li>
+
+<hr/>
+
+<h2>Skills</h2>
+
+<ul>
+    <li>Empathy <img src="./images/score_5.0.bmp" alt="score" height="40"></li>  <br/>
+    <li>Creativity<img src="./images/score_5.0.bmp" alt="score" height="40"></li> <br/>
+    <li>Communication skills<img src="./images/score_4.8.bmp" alt="score" height="30"></li> <br/>
+    <li>Organization<img src="./images/score_4.5.bmp" alt="score" height="40"></li> <br/>
+    <li>Commitment<img src="./images/score_5.0.bmp" alt="score" height="40"></li> <br/>
+    <li>Assertiveness<img src="./images/score_5.0.bmp" alt="score" height="40"></li> <br/>
+</ul>
+
+<hr/>
+
+<h2>A little bit more about me:</h2>
+
+<p>I'm a very hard work, and dedicated worker. i'm always trying to learn new things, and a new way of doing everything in order to make our lifes easier. 
+    
+    <br/>
+    <br/>
+    
+    Web development is very interesting to me because i love creating things, and I feel very proud after creating websites. 
+</p>
+
+<p>If you are interested on my work, and would like to hire me, you can contact me through me email sousapietra29@gmail.com</p>
+
+    <a href="./public/projects.html">Here are some of my projects</a>
+<footer>
+    <p>2026, Sousa Pietra</p>
+</footer>
+
+</body>
+</html>
